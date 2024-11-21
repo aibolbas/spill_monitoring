@@ -1,0 +1,85 @@
+.Map{
+    width:100% ;
+    height: 100vh;
+}
+.singapore{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    background-color: rgb(144, 144, 144);
+    position: absolute;
+    top: 535px;
+    left: 1045px;
+    transition: 1s;
+}
+.singapore:hover{
+    background-color:  rgb(226, 189, 55);
+    width: 500px;
+    height: 500px;
+    top: 175px;
+    left: 795px;
+
+}
+.singapore:hover .logotyp {
+    width: 300px;
+    height: 150px;
+    transition: 1.5s;
+
+}
+.singapore:hover .tex{
+    opacity: 1;
+    transition: 1.5s;
+}
+.dot{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    background-color: rgb(144, 144, 144);
+    position: absolute;
+    transition: 1s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.tex{
+    text-align: center;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.dot:hover{
+    background-color:  rgb(226, 189, 55);
+    width: 500px;
+    height: 500px;
+    z-index: 3;
+
+}
+.USA{
+    top: 400px;
+    left: 230px;
+}
+.USA:hover{
+    top: 300px;
+}
+.uar{
+    top: 630px;
+    left: 700px;
+}
+.uar:hover{
+    top: 330px;
+    left: 500px;
+}
+.logotyp{
+    width: 0px;
+    height: 0px;
+    transition: 0.5s;
+}
+.eqypt{
+    top: 410px;
+    left: 850px;
+}
+.eqypt:hover{
+    top: 210px;
+    left: 650px;
+}
