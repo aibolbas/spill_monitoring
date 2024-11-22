@@ -5,7 +5,7 @@ function Oil() {
     return(
         <>
         <div className="oil">
-            <h1>Threads to Nature</h1>
+            <h1>Threats to Nature</h1>
             <div className="pictex">
             <div className="picti">
                     <img className="picbird" src={process.env.PUBLIC_URL + '/pic/bird.jpeg'} alt="" />
