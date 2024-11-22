@@ -28,26 +28,28 @@ Regardless of the cause, an accidental spill at the very least disrupts normal p
                 </div>
                 <img className="picbird" src={process.env.PUBLIC_URL + '/pic/turtle.jpeg'} alt="" />
             </div>
+            <h1>Expert's opinion</h1>
             <div className="pictexdowndown">
             <img className="picbird" src={process.env.PUBLIC_URL + '/pic/inter.jpeg'} alt="" />
-                <div className="textdown">1) The urgency of the problem of oil leakage into the environment
+                <div className="textdown">1. The urgency of the problem of oil leakage into the environment
 
 Each year, more than a million tons of oil enter the oceans due to technical or human errors, and given the growth of oil production and transportation, this figure is constantly increasing.
-Oil leakage is one of the urgent and complex problems in the oil and gas industry, which has serious environmental, economic and social consequences, and its prevention and solution requires coordinated actions on the part of oil companies, the state and society.<br/>
+Oil leakage is one of the urgent and complex problems in the oil and gas industry, which has serious environmental, economic and social consequences, and its prevention and solution requires coordinated actions on the part of oil companies, the state and society.<br/><br/>
 
-2) Consequences of oil leaks<br/>
-1) For oil and gas companies - leaks lead to significant economic losses (losses from downtime, fines, cleaning costs) and reputational risks (growing discontent among society and pressure on oil companies to stop their work, etc.).<br/>
-2) For the environment, the consequences can be catastrophic, depending on the scale of the spill, leading to the complete destruction of flora and fauna, without the possibility of recovery.<br/>
+2. Consequences of oil leaks<br/><br/>
+1) For oil and gas companies - leaks lead to significant economic losses (losses from downtime, fines, cleaning costs) and reputational risks (growing discontent among society and pressure on oil companies to stop their work, etc.).<br/><br/>
+2) For the environment, the consequences can be catastrophic, depending on the scale of the spill, leading to the complete destruction of flora and fauna, without the possibility of recovery.<br/><br/>
                 </div>
                 
             </div>
             <div className="textidowndowndown">
-            3) For people - leaks affect public health, especially those living close to oil production sites.<br/>
+            3) For people - leaks affect public health, especially those living close to oil production sites.<br/><br/>
 
-3) Methods of preventing oil leaks include regular inspections of tankers, pipelines and their timely maintenance; use of modern technologies for monitoring and prevention of spills; elimination of human factors - continuous training of personnel to detect and prevent, detect and respond to oil spills.<br/>
-4) Measures in the event of an oil leak include mechanical methods to limit the spread of oil, chemical and biological methods to clean up contaminated areas, evacuation of personnel and residents of nearby areas.<br/>
-5) The contribution of ordinary people - almost EVERYTHING around us is made of oil or thanks to it, and each of us can contribute to reducing oil production and, accordingly, oil spills, adhering to the principles of reasonable consumption and properly disposing of waste, for example, using public transport instead of personal, buying less clothes, using reusable dishes for coffee, water, etc.
+3. Methods of preventing oil leaks include regular inspections of tankers, pipelines and their timely maintenance; use of modern technologies for monitoring and prevention of spills; elimination of human factors - continuous training of personnel to detect and prevent, detect and respond to oil spills.<br/><br/>
+4. Measures in the event of an oil leak include mechanical methods to limit the spread of oil, chemical and biological methods to clean up contaminated areas, evacuation of personnel and residents of nearby areas.<br/><br/>
+5. The contribution of ordinary people - almost EVERYTHING around us is made of oil or thanks to it, and each of us can contribute to reducing oil production and, accordingly, oil spills, adhering to the principles of reasonable consumption and properly disposing of waste, for example, using public transport instead of personal, buying less clothes, using reusable dishes for coffee, water, etc.
             </div>
+            <p className="quote">Assistant of Chief Director "Chevron" - Zhanar Qoshpanova</p>
         </div>
         
         </>

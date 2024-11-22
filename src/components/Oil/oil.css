@@ -1,7 +1,7 @@
 .oil{
     width: 80%;
     padding: 0 10% ;
-    min-height: 160vh;
+    min-height: 190vh;
     color: white;
     margin-top: 70px;
 }
@@ -56,4 +56,9 @@
 }
 .textidowndowndown{
     font-size: 20px;
+}
+.quote{
+    float: right;
+    font-weight: 20000;
+    font-family: italic;
 }
