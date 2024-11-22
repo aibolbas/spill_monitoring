@@ -1,0 +1,28 @@
+.shoper{
+    width: 80%;
+    min-height: 500px;
+    padding: 0 10%;
+    color: white;
+    margin-top: 70px;
+}
+.shopermain{
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 255, 255, 0.861);
+}
+.producer{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.shopermain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.shopermain h1{
+    font-size: 70px;
+    margin: 0;
+}

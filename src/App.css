@@ -41,3 +41,49 @@ Link{
   color: white;
   text-decoration: none;
 }
+.picture{
+  position: fixed;
+  opacity: 0.3;
+  width: 200px;
+  height: 150px;
+  z-index: -1;
+}
+.feinkoi{
+  top: 600px;
+  left: 1200px;
+}
+.whale{
+  width: 250px;
+  height: 200px;
+  top: 500px;
+  left: 700px;
+}
+.fish{
+  top: 370px;
+  left: 1000px;
+}
+.jelly{
+  top: 500px;
+  left: 10px;
+  height: 250px;
+}
+.shark{
+  top: 390px;
+  left: 350px;
+  width: 300px;
+  height: 200px;
+}
+.whalejump{
+  top: 100px;
+  left: 1100px;
+  width: 300px;
+  height: 250px;
+}
+.fishfein{
+  top: 100px;
+  left: 100px;
+}
+.feintle{
+  top: 200px;
+  left: 600px;
+}

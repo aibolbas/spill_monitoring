@@ -1,0 +1,27 @@
+.contactmain{
+    width: 80%;
+    min-height: 100vh;
+    padding: 0 10%;
+    margin-top:70px ;
+    margin-bottom: 70px;
+}
+.contacthead{
+    width: 100%;
+    min-height: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    flex-direction: column;
+}
+.contacthead h1{
+    margin: 0;
+}
+.contacthead h3{
+    opacity: 0.3;
+}
+.cardplace{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}

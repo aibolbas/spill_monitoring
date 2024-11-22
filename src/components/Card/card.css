@@ -1,0 +1,22 @@
+.cardmain{
+    background-color: rgb(222, 222, 222);
+    width: 180px;
+    height: 100px;
+}
+.line{
+    width: 0;
+    height: 30px;
+    border-left: 3px solid red;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.cardContent{
+    padding: 10px;
+    margin-bottom: 50px;
+    position: relative;
+    bottom: 30px;
+}
+.cardContent h1{
+    margin: 0;
+}

@@ -14,7 +14,9 @@ function Header() {
                 <Link to={'/oil'}> <div className="link">About Oil</div></Link>
                 <Link to={'/contact'}> <div className="link">Contact</div></Link>
             </div>
-            <div className="link_save"></div>
+            <div className="link_save">
+                <Link to={'/shop'}><div className="link">Help Planet</div></Link>
+            </div>
         </div>
         
         </>

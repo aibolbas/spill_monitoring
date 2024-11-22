@@ -15,7 +15,7 @@
 .singapore:hover{
     background-color:  rgb(226, 189, 55);
     width: 500px;
-    height: 500px;
+    height: 250px;
     top: 175px;
     left: 795px;
 
@@ -31,8 +31,8 @@
     transition: 1.5s;
 }
 .dot{
-    width: 20px;
-    height: 20px;
+    width: 1px;
+    height: 1px;
     border-radius: 50px;
     background-color: rgb(144, 144, 144);
     position: absolute;
@@ -41,6 +41,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding: 10px;
 }
 .tex{
     text-align: center;
@@ -62,6 +63,15 @@
 .USA:hover{
     top: 300px;
 }
+.USA:hover .eqyptic{
+    width: 300px;
+    height: 150px;
+    transition: 1.5s;
+}
+.USA:hover .tex{
+    opacity: 1;
+    transition: 1.5s;
+}
 .uar{
     top: 630px;
     left: 700px;
@@ -70,16 +80,75 @@
     top: 330px;
     left: 500px;
 }
+.uar:hover .eqyptic{
+    width: 300px;
+    height: 150px;
+    transition: 1.5s;
+}
+.uar:hover .tex{
+    opacity: 1;
+    transition: 1.5s;
+}
 .logotyp{
     width: 0px;
     height: 0px;
     transition: 0.5s;
 }
 .eqypt{
-    top: 410px;
-    left: 850px;
+    top: 400px;
+    left: 780px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.EgLink{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 .eqypt:hover{
     top: 210px;
     left: 650px;
+}
+.eqyptic{
+    width: 0px;
+    height: 0px;
+    transition: 0.5s;
+}
+.eqypt:hover .eqyptic {
+    width: 300px;
+    height: 150px;
+    transition: 1.5s;
+}
+.eqypt:hover .tex {
+    opacity: 1;
+    transition: 1.5s;
+
+}
+.kaspi{
+    top: 320px;
+    left: 850px;
+}
+.kaspi:hover{
+    top: 210px;
+    left: 650px;
+}
+a{
+    color: white;
+}
+.kaspitic{
+    width: 0px;
+    height: 0px;
+    transition: 0.5s;
+}
+.kaspi:hover .kaspitic {
+    width: 300px;
+    height: 150px;
+    transition: 1.5s;
+}
+.kaspi:hover .tex {
+    opacity: 1;
+    transition: 1.5s;
 }
