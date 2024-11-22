@@ -1,7 +1,7 @@
 .oil{
     width: 80%;
     padding: 0 10% ;
-    min-height: 100vh;
+    min-height: 160vh;
     color: white;
     margin-top: 70px;
 }
@@ -39,4 +39,21 @@
 }
 .textidown{
     margin-right: 30px;
+}
+.pictexdowndown{
+    display: flex;
+    width: 100%;
+    height: 50%;
+    justify-content: flex-start;
+    align-items: flex-start;
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.textdown{
+    margin-left: 20px;
+    
+}
+.textidowndowndown{
+    font-size: 20px;
 }
